@@ -1,8 +1,12 @@
 ### Hi there 👋
 
+I'm Lucas Aranguren an Full Stack Javascript Web Developer and Software Engeniering Student at [UNLAM](https://www.unlam.edu.ar/).
+I'd liked to improve my habilities and knowledge of software developing. I'm actually working on personal projects and leraning typescript.
 
+## 📫 Contact me!
 
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/arangurenlucas/)
+- 📧 [Email](arangurenlucasl@gmail.com)
 
 <!--
 **arangurenlucas/arangurenlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
