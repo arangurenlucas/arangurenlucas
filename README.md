@@ -10,7 +10,7 @@ I wish to be a _Full Mobile Dev_ in the future learning Kotlin and Swift to make
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arangurenlucas/)
 - 📧 [Email](arangurenlucasl@gmail.com)
-
+- :thought_balloon: [Twitter](https://twitter.com/rocardao)
 <!--
 **arangurenlucas/arangurenlucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
