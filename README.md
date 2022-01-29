@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I'm Lucas Aranguren an Full Stack Javascript Web Developer and Software Engeniering Student at [UNLAM](https://www.unlam.edu.ar/).
-I'd liked to improve my habilities and knowledge about software developing. I'm actually working on personal projects.
+I'm Lucas Aranguren an Full Stack Javascript Web/Mobile Developer.
+I'd liked to improve my habilities and knowledge about software developing. I'm actually working at Pigmalion Software as Frontend React Native Developer.
 
 ## 📫 Contact me!
 
